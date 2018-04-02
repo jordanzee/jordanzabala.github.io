@@ -10,6 +10,12 @@ p {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.about{
+	font-size: 20px;
+	text-align: center;
+	padding: 0 5%;
+}
+
 section {
 	width:100%;
   margin: 40px 0;
@@ -122,6 +128,15 @@ hr {
   display: inline-block;;
 }
 
+.contact-item{
+	font-size:3em;
+}
+
+.linkedin-btn {
+	 height: 50px;
+	 margin-bottom: 20px;
+}
+
 .row-footer {
 	padding: 0vh 10vw 10vw 10vw;
 	margin-top:100px;
@@ -152,14 +167,6 @@ hr {
 	border: 2px solid #0099cc;
 	color: #0099cc;
 	border:0;
-}
-
-.linkedin-btn {
-	background-color: white;
-	width:140px;
-	box-shadow: 0px 2px 5px 1px lightgrey;
-	padding: 12px;
-	border-radius: 5px;
 }
 
 .btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
