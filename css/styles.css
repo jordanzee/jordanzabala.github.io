@@ -179,3 +179,14 @@ hr {
 	color: #007299;
 	box-shadow: none;
 }
+
+.job-title {
+	margin = 0;
+    	font-weight: 400;
+}
+
+.company {
+	margin: 0;
+    	margin-bottom: 15px;
+	font-size: 15px;
+}
