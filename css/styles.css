@@ -77,8 +77,8 @@ hr {
 
 .header-col h2 {
 	font-size: 1.3em;
-  margin-bottom: 20px;
-  margin-top: 0;
+  	margin-bottom: 20px;
+  	margin-top: 0;
 }
 
 .email {
@@ -180,7 +180,7 @@ hr {
 	box-shadow: none;
 }
 
-.job-title {
+.header-col .job-title {
 	margin = 0;
     	font-weight: 400;
 }
