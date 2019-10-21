@@ -75,7 +75,7 @@ hr {
 	max-width: 200px;
 }
 
-.header-col h2 {
+.country {
 	font-size: 1.3em;
   	margin-bottom: 20px;
   	margin-top: 0;
@@ -179,8 +179,8 @@ hr {
 	color: #007299;
 	box-shadow: none;
 }
-
-.header-col .job-title {
+.job-title {
+	font-size: 1.3em;
 	margin = 0;
     	font-weight: 400;
 }
